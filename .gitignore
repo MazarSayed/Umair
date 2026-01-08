@@ -1,0 +1,3 @@
+*.mkdirp-cache
+*.mktemp-cache
+/node_modules
